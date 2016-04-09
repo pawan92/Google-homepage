@@ -1,8 +1,9 @@
 body{
   background-color: white;
+  font-family:"Arial", sans-serif;
 }
 
-ul {
+.topnav {
     list-style-type: none;
     margin: 8px 5px 8px 8px;
     padding: 0;
@@ -27,6 +28,7 @@ li a {
   border-radius: 50%;
   height: 20px;
   width: 20px;
+  
 }
 
 .profile{
@@ -49,4 +51,33 @@ background-color: #E831DB;
     margin-bottom: 30px;
     height: 38px;
     width: 484px;
+}
+
+.bottomnavleft {
+    list-style-type: none;
+    margin: 8px 5px 8px 8px;
+    padding: 0;
+    overflow: hidden;
+    font-size: 13px;
+    float: left;
+}
+
+.bottomnavright{
+    list-style-type: none;
+    margin: 8px 5px 8px 8px;
+    padding: 0;
+    overflow: hidden;
+    font-size: 13px;
+    float: right;
+}
+
+.footer {
+    font-size: small;
+    background: #F2F2F2;
+    border-top: 1px solid #E4E4E4;
+    line-height: 1px;
+    min-width: 980px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
