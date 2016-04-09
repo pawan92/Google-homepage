@@ -30,10 +30,23 @@ li a {
 }
 
 .profile{
-width: 35px;
-height: 35px;
+width: 3px;
+height: 3px;
 border-radius: 50%;
 background-color: #E831DB;
+}
 
+.google{
+  padding-top: 110px;
+  margin:auto;
 
+}
+
+  .searchbox{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    height: 38px;
+    width: 484px;
 }
