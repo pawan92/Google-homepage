@@ -28,10 +28,12 @@ li a {
   border-radius: 50%;
   height: 20px;
   width: 20px;
-  
+
+
 }
 
 .profile{
+margin-top: 8px;
 width: 3px;
 height: 3px;
 border-radius: 50%;
@@ -80,4 +82,26 @@ background-color: #E831DB;
     position: absolute;
     bottom: 0;
     width: 100%;
+}
+
+span {
+    display:block;
+    text-align:center;
+}
+
+p{
+  color:white;
+  font-size: 20px;
+  position: relative;
+  top: -12px;
+  right: 6px;
+}
+.glyphicon-bell{
+  position: relative;
+  top: -3px;
+  right: 6px;
+}
+
+.fa-microphone{
+  position: absolute;
 }
