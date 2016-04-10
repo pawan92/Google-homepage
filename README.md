@@ -1,2 +1,2 @@
 # Google-homepage
-Google home page coming SOON!
+Google home page replica! =)

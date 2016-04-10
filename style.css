@@ -105,3 +105,22 @@ p{
 .fa-microphone{
   position: absolute;
 }
+
+.gsearch, .lucky {
+
+    background-image:linear-gradient(top, #F5F5F5, #F1F1F1);
+    background-color:   #F2F2F2;
+    border: 1px solid #F2F2F2;
+    border-radius: 2px;
+    color: #757575;
+    cursor: default;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    height:3em;
+    margin-right: 4px;
+    margin-left: 4px;
+    min-width: 54px;
+    padding: 0px 16px;
+    text-align: center;
+}
